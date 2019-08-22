@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+migrations/
+.gitignore~
+__pycache__
+*.pyc
